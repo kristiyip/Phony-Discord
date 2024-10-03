@@ -1,0 +1,1 @@
+export const mainGradient = 'linear-gradient(to bottom right, #e66465, #9198e5)'
